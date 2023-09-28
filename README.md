@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaquinFreire
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on HTML5, CSS3, JavaScript, React, PHP, Tailwind, SQL.
+- 💞️ I’m looking to collaborate on C#, HTML5, CSS3, JavaScript, React, PHP, Tailwind, SQL.
 - 📫 How to reach me tel: 3513117202
 
 <!---
